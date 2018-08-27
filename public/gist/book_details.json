@@ -1,0 +1,66 @@
+[
+  {
+    "username": "titty",
+    "fullName": "TittyTitty",
+    "bookList": [
+      {
+        "bookName": "Book1",
+        "isFavourite": true,
+        "comments": "Ilikethisbook."
+      },
+      {
+        "bookName": "Book2",
+        "isFavourite": false,
+        "comments": "Imight like thisbook."
+      }
+    ]
+  },
+  {
+    "username": "krishna",
+    "fullName": "krishna krishna",
+    "bookList": [
+      {
+        "bookName": "Book3",
+        "isFavourite": true,
+        "comments": "I like this book."
+      },
+      {
+        "bookName": "Book4",
+        "isFavourite": false,
+        "comments": "Imightlikethisbook."
+      }
+    ]
+  },
+  {
+    "username": "guru",
+    "fullName": "guru guru",
+    "bookList": [
+      {
+        "bookName": "Book5",
+        "isFavourite": true,
+        "comments": "Ilikethisbook."
+      },
+      {
+        "bookName": "Book6",
+        "isFavourite": false,
+        "comments": "Imightlikethisbook."
+      }
+    ]
+  },
+  {
+    "username": "tino@gmail.com",
+    "fullName": "tino tino",
+    "bookList": [
+      {
+        "bookName": "Book7",
+        "isFavourite": true,
+        "comments": "Ilikethisbook."
+      },
+      {
+        "bookName": "Book8",
+        "isFavourite": false,
+        "comments": "Imightlikethisbook."
+      }
+    ]
+  }
+]
